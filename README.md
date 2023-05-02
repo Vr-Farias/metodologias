@@ -1,5 +1,7 @@
 # Metodologias Ágeis
 
+### Apresentação de projetos sobre metodologias ágeis na tecnologia.
+
 ### :recycle: TDD: Test Driven Development:
 Método em ciclos de criação de projeto, voltado a criação de erros propositais para refatoração de código, tornando-o limpo e funcional de maneira prática.
 
