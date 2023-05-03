@@ -14,6 +14,5 @@ Sistema de gerenciamento visual, utilizando de cartões, colunas e quadros para 
 ### :chart_with_upwards_trend: LEAN:
 Abordagem de gestão que visa a maximização da eficiência e redução de desperdícios em processos produtivos.
 
-### XP
-
-
+### :zap: XP
+Produzir o software com alta qualidade em um ambiente de trabalho colaborativo e ágil. Abordagem interativa e incremental, concentrada na constante entrega de pequenos resultados de funcionalidade. 
